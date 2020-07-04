@@ -953,6 +953,7 @@
 		left: -18.5vw;
 		width: 56vw;
 		height: 80vh;
+		background-size: 640px auto;
 	}
 	.section.started.personal .started-content .h-title {
 		margin-left: 0;
@@ -1098,7 +1099,7 @@
 
 	.section.started .started-content .logo {
 		position: absolute;
-		top: 0;
+		top: 8vh;
 		left: -30px;
 		width: 110vw;
 		height: 62vh;
@@ -1109,7 +1110,7 @@
 
 	.section.started.personal .started-content .h-title {
 		left: 0;
-		top: 64vh;
+		top: 70vh;
 		bottom: auto;
 		width: 100%;
 		margin-top: 0;
